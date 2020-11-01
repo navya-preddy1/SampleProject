@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/.vs
+/UiAutomation/.vs
+/UiAutomation/bin/Debug/net472
+/UiAutomation/bin
+/UiAutomation/obj
+/UiTest/bin/Debug/net472
+/UiTest/bin
+/UiTest/obj
+*.user
